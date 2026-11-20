@@ -1,16 +1,15 @@
 # Daily Drip
 
-A minimalist to-do list browser extension designed to help you organize daily tasks, track your progress, and stay productive with simplicity.
+A minimalist to-do list browser extension designed to help you organize daily tasks and keep track of your progress with simplicity.
 
 ## Features
 
-- **Task Management:** Add, edit, and delete tasks.
+- **Add Tasks:** Quickly create new tasks.
 - **Task Completion:** Mark tasks as completed.
-- **Categories:** Organize tasks into different categories.
-- **Priority Levels:** Set priorities for your tasks.
-- **Due Dates:** Set deadlines and manage your schedule.
-- **Daily Progress:** Track your completed tasks.
-- **Light & Dark Mode:** Switch between themes.
+- **Task Organization:** Separate pending and completed tasks.
+- **Restore Tasks:** Move completed tasks back to the pending list.
+- **Delete Tasks:** Permanently remove completed tasks.
+- **Data Persistence:** Save tasks using Chrome Storage API.
 
 ## Technologies
 
@@ -32,11 +31,11 @@ A minimalist to-do list browser extension designed to help you organize daily ta
 <img width="384" height="497" alt="Captura de tela 2026-11-19 231227" src="https://github.com/user-attachments/assets/6959605d-e6ac-4932-acd7-533e705897d0" />
 <img width="386" height="497" alt="Captura de tela 2026-11-19 231430" src="https://github.com/user-attachments/assets/c6f6da30-2f13-4649-b69e-0c99cf200d9b" />
 
+## Future Improvements
 
-
-## License
-
-This project is licensed under the MIT License.
+- **Dark Mode:** Add a dark theme option.
+- **Task Editing:** Allow users to edit existing tasks.
+- **Task Organization:** Introduce categories and priority levels.
 
 ---
 
