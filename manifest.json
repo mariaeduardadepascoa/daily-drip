@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Daily Drip",
+    "version": "1.0",
+    "description": "A To-Do List extension to help you organize daily tasks and stay productive with simplicity.",
+    "permissions": [
+        "storage"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "./imgs/daily_drip_logo2.png"
+    }
+}
