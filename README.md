@@ -29,11 +29,11 @@ A minimalist to-do list browser extension designed to help you organize daily ta
 
 ## Screenshots
 
-<!-- Add screenshots of your extension here -->
+<img width="614" height="552" alt="image" src="https://github.com/user-attachments/assets/a2641b02-c4c0-4025-9c13-775f887f5c12" />
+<img width="384" height="497" alt="Captura de tela 2026-11-19 231227" src="https://github.com/user-attachments/assets/6959605d-e6ac-4932-acd7-533e705897d0" />
+<img width="386" height="497" alt="Captura de tela 2026-11-19 231430" src="https://github.com/user-attachments/assets/c6f6da30-2f13-4649-b69e-0c99cf200d9b" />
 
-## Project Status
 
-In development.
 
 ## License
 
